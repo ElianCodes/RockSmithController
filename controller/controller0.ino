@@ -13,7 +13,7 @@ int PIN_DEL = 8;
 #define statusLed 13
 
 //keys to press
-#define KEY_UP 82
+#define KEY_UP 82u
 #define KEY_DOWN 81
 #define KEY_RIGHT 79
 #define KEY_LEFT 80
