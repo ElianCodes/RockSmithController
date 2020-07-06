@@ -1,6 +1,8 @@
 # RockSmithController
 
-This is the source code for a MIDI controller to control Rocksmith2014
+This is the source code for a controller made with an Arduino to control Rocksmith2014
+
+This project is still under development and not finished yet.
 
 ## table of contents
 
